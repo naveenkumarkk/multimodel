@@ -13,7 +13,13 @@ The cascade works by sequentially passing data through these experts:
 
 The cascade of experts is particularly effective for complex tasks where different data types require specialized processing.
 
----
+## Datasets Used
+[Cancer Classification CSV](https://www.kaggle.com/datasets/erdemtaha/cancer-data)
+
+[Breast Cancer Classification CSV](https://www.kaggle.com/datasets/wasiqaliyasir/breast-cancer-dataset)
+
+[Image Classification](https://www.kaggle.com/datasets/ramachandraudupa/multicancer-dataset)
+
 ## 🧠 Cascade of Experts Architecture
 
 ![Cascade of Experts Cancer Multimodel](cascade.jpg)
@@ -145,7 +151,4 @@ This modular structure makes the codebase easy to maintain, extend, and experime
 4. Explore data and models in the `notebooks/` directory.
 ---
 
-## Authors
-
-Refer to the [README.md](README.md) for more details.
 
